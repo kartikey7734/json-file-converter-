@@ -1,0 +1,6 @@
+{
+  "name": "Workflow Converter AI",
+  "description": "An AI-powered tool to seamlessly convert automation workflow files between Make.com (.json) and n8n (.json) formats.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
